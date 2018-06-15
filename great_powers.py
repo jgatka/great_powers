@@ -9,7 +9,8 @@ from random import shuffle
 
 # to do list
 '''
-Need to insert a 'Board number x' statement in between board assignments. This will require a board count variable as well as a current board variable.
+TODO Use a text file with names on it instead of having to type in each player name
+TODO Need to insert a 'Board number x' statement in between board assignments. This will require a board count variable as well as a current board variable.
 '''
 
 # Declare variable for the number of players and set it equal to zero
