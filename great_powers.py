@@ -5,7 +5,6 @@
 # Import libraries
 import random
 from random import shuffle
-import foo.insecure
 
 # to do list
 '''
